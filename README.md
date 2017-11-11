@@ -1,0 +1,2 @@
+# myShop
+Prosty sklep internetowy
